@@ -1,0 +1,16 @@
+.header-logo{
+    margin-top:10px;
+    height:28px;
+}
+.empty-space{
+    padding:30px;
+}
+.white-text{
+    border-bottom: 1px solid rgba(255,255,263,1.11);
+    color: rgba(255,255,255,0.71);
+}
+.card .attended{
+    padding: 15px;
+    margin-left: 17px;
+    font-weight: 700;
+}
